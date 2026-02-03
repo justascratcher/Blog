@@ -1,0 +1,12 @@
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - file.inFolder("笔记")
+        - file.inFolder("想法")
+    order:
+      - file.name
+      - tags
