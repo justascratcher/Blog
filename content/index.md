@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: 欢迎来我的 Blog
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+这里是我平时会记些东西的地方

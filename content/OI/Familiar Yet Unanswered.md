@@ -1,1 +1,0 @@
-若我们令 $x\circ y$ 表示 $x\cap y$ 中 1 数量的奇偶性，即 $x\circ y=\text{popcnt}(x\cap y)\bmod 2$，那么容易有 $(x\circ y)\oplus (x\circ z)=x\circ(y\oplus z)$．
